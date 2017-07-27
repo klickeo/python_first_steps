@@ -1,2 +1,2 @@
 print('Wann ist wieder Halloween?')
-print('Ende Oktober, glaube ich')
+print('Am 31. Oktober')
